@@ -1,0 +1,63 @@
+/*
+    Autor: Leonardo Alvarado Torres
+    Fecha: 19/10/2019
+ */
+
+.lista li{
+    text-decoration: none;
+    width: 85%;
+    margin-top: 5px;
+    margin-left: -5%;
+    display: block;
+    height: 30px;
+    background: #F7F5F2;
+    font-size: 18px;
+    padding: 0 0 0 5px;
+    border-left: 15px solid #efb515
+}
+
+.lista li a{
+    text-decoration: none;
+    color: black;
+}
+
+.header1{
+    font-family: "Times New Roman", serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.header1 p{
+    text-align: justify-all;
+}
+
+.header2{
+    font-family: "Kristen ITC", serif;
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.header2 p{
+    text-align: justify-all;
+}
+
+.header3{
+    font-family: "Bahnschrift", serif;
+    font-size: 40px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.header3 p{
+    text-align: justify-all;
+}
+
+.pie_pagina p{
+    text-align: center;
+}

@@ -1,0 +1,37 @@
+*{
+    border-width: 2px;
+    border-color: #1100ff;
+    border-style: dashed;
+}
+
+
+.cabecera img{
+    max-width: 100%;
+    height: auto;
+}
+
+.menu {
+    float: left;
+    border-style: dotted;
+    border-color: black;
+    border-radius: 2em;
+    background-color: #dfeba3;
+    width: 15%;
+}
+
+.contenido{
+    float: left;
+    margin-left: 50px;
+    margin-right: 30px;
+    width: 50%;
+}
+
+.navegadorDerecho{
+    float: left;
+    margin-left: 10px;
+    width: 15%;
+}
+
+.pie_pagina{
+    clear: both;
+}
